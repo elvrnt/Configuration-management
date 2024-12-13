@@ -1,0 +1,17 @@
+<config>
+    <variable name="X">10</variable>
+    <variable name="Y">5</variable>
+    <constant name="PI">3.14</constant>
+    <array>
+        <value>1</value>
+        <value>2</value>
+        <array>
+            <value>3</value>
+            <value>4</value>
+            <array>
+                <value>5</value>
+            </array>
+        </array>
+    </array>
+    <constant name="CIRCLE_AREA">$(PI) * $(RADIUS)</constant>
+</config>

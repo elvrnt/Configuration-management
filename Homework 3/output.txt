@@ -1,0 +1,5 @@
+var X := 10;
+var Y := 5;
+(define PI 3.14)
+<< 1, 2, << 3, 4, << 5 >> >> >>
+(define CIRCLE_AREA 3.14 * $(RADIUS))
