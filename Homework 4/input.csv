@@ -1,0 +1,4 @@
+load_const,8,803
+write_mem,10,8,8
+load_const,7,1
+mod_mem,8,8,10,7
